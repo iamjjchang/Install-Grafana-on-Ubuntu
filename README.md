@@ -3,9 +3,9 @@
 ## Installation prerequisite
 
 Get the latest version of Grafana
-```
+
 [Official Grafana Download Page](https://grafana.com/grafana/download?platform=linux)
-```
+
 
 ```
 sudo apt-get install -y adduser libfontconfig1
