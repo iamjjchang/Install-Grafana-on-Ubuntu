@@ -52,7 +52,7 @@ If you would like to remove grafana and it's dependent packages which are no lon
 sudo apt-get remove --auto-remove grafana 
 ```
 
-**Purging grafana**
+**Purging grafana** \
 We instruct apt-get to remove configuration files
 ```
 sudo apt-get purge grafana 
