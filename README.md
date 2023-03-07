@@ -1,6 +1,6 @@
 # Install Grafana on Ubuntu 22.04 LTS
 
-# Installation prerequisite
+## Installation prerequisite
 
 Get the latest version of Grafana
 ```
